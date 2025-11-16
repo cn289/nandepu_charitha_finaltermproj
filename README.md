@@ -1,7 +1,7 @@
 #Breast Cancer Classification Using Random Forest, SVM, and LSTM
 
 
-This project focuses on building and evaluating three machine learning algorithms—Random Forest, Support Vector Machine (SVM), and a deep learning model (LSTM)—to classify breast cancer tumors as benign (0) or malignant (1) using the Breast Cancer Wisconsin Diagnostic Dataset.
+This project focuses on building and evaluating three machine learning algorithms—Random Forest, Support Vector Machine (SVM), and a deep learning model (LSTM) to classify breast cancer tumors as benign (0) or malignant (1) using the Breast Cancer Wisconsin Diagnostic Dataset.
 
 A full pipeline was implemented including:
 
